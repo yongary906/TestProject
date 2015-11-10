@@ -2,6 +2,7 @@
 
 int main() 
 {
-  printf("aaa\n")"
-  printf("hello\n");
+	printf("test\n");
+	printf("aaa\n");
+	printf("hello\n");
 }
